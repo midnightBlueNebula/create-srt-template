@@ -42,4 +42,4 @@ def createSRTTemplate(vid_h,vid_m,vid_s):
     print("\n")
 
 
-createSRTTemplate(0,10,0)
+#create srt template for 10 min length video: createSRTTemplate(0,10,0)
